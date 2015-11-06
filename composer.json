@@ -1,0 +1,22 @@
+{
+    "name": "endeavors/pjax",
+    "description": "Service Provider to set headers for a pjax request",
+    "keywords": ["pjax","pushState-ajax", "laravel-pjax"],
+    "authors": [
+        {
+            "name": "adam",
+            "email": "adam@healthendeavors.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Endeavors\\Pjax\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
