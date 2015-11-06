@@ -10,7 +10,7 @@ Add `endeavors/pjax` to `require` section in your `composer.json`
 
     composer require endeavors/pjax
 
-Add `'Endeavors\Pjax\PjaxServiceProvider',` to `providers` array in your `app/config/app.php`
+Add `'Endeavors\Pjax\PjaxServiceProvider',` to your `providers` array in your `app/config/app.php`
 
 #### How to use
 
