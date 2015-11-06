@@ -8,7 +8,7 @@ If using **Laravel 5**, please see [jacobbennett/pjax](https://github.com/JacobB
 
 Add `endeavors/pjax` to `require` section in your `composer.json`
 
-    composer require vtalbot/pjax
+    composer require endeavors/pjax
 
 Add `'Endeavors\Pjax\PjaxServiceProvider',` to `providers` in your `app/config/app.php`
 
