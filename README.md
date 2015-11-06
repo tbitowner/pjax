@@ -23,3 +23,13 @@ Works great with [jquery.pjax.js](https://github.com/defunkt/jquery-pjax).
 ### Contribution
 
 I'm open to any idea of features to add to it.
+
+This is almost identical to https://github.com/vtalbot/pjax
+
+I removed the code portion below as I had trouble getting it working. Probably because I didn't have a 'head title'.
+
+    
+    $title = $crawler->filter('head title')->html();
+				
+	$response->setContent('<title>' . $title . '</title>' . $html);
+    	
