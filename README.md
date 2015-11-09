@@ -6,7 +6,7 @@ If using **Laravel 5**, please see [jacobbennett/pjax](https://github.com/JacobB
 
 #### Installation
 
-Add `endeavors/pjax` to `require` section in your `composer.json`
+Add `endeavors/pjax` to `require` section in your `composer.json` 
 
     composer require endeavors/pjax
 
